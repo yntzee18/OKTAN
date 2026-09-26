@@ -1,2 +1,0 @@
-# OKTAN
-AUTO
